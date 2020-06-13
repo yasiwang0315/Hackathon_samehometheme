@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.Header {
+  background: #0a094f;
+  height: 150px;
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+  border-bottom: 5px solid #d82727;
+}
+
+.input {
+  display: block;
+  margin: 0 auto;
+}
+
+.table {
+  margin: 5px;
+}
