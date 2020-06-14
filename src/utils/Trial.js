@@ -1,4 +1,4 @@
-import NewAPI from "../utils/NewAPI/NewAPI";
+import NewAPI from "./NewAPI/NewAPI";
 import React, { Component } from "react";
 
 class Trial extends Component {

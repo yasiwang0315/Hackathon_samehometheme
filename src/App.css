@@ -1,21 +1,31 @@
 .App {
-  text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+.App article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+.App body {
+    line-height: 1;
+}
+.App ol, ul {
+    list-style: none;
+}
+.App blockquote, q {
+    quotes: none;
+}
+.App blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+.App table {
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
-.Header {
-  background: #0a094f;
-  height: 150px;
-  color: white;
-  text-align: center;
-  padding-top: 30px;
-  border-bottom: 5px solid #d82727;
-}
-
-.input {
-  display: block;
-  margin: 0 auto;
-}
-
-.table {
-  margin: 5px;
-}

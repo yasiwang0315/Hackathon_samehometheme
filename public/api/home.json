@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+            "id": 1,
+            "title": "Thanos",
+            "imgUrl": "https://static.toiimg.com/photo/msid-75390440/75390440.jpg?344550"
+        }, {
+            "id": 2,
+            "title": "Iron Man",
+            "imgUrl": "https://i.ytimg.com/vi/3qkOSopmV9Q/maxresdefault.jpg"
+        }, {
+            "id": 3,
+            "title": "Captain America",
+            "imgUrl": "https://cdn3.movieweb.com/i/article/pgcFyKTA1rTFYcnUxDhHlAoGzZuDbP/1200:100/Avengers-Endgame-Captain-America-Time-Travel-Explained.jpg"
+        }, {
+            "id": 4,
+            "title": "Black Widow",
+            "imgUrl": "https://i.ytimg.com/vi/her22k5s0ZM/maxresdefault.jpg"
+        }, {
+            "id": 5,
+            "title": "Spider Man",
+            "imgUrl": "https://www.syfy.com/sites/syfy/files/styles/1200x680_hero/public/2019/07/spider-man.jpg"
+        }]
+    }
+}
