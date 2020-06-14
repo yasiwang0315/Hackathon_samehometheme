@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import axios from "axios";
-import BasicInfo from "../quiz/components/BasicInfo";
-import KeyQualities from "../quiz/components/KeyQualities";
-import ProgressBar from "../quiz/components/ProgressBar";
+import BasicInfo from "./components/BasicInfo";
+import KeyQualities from "./components/KeyQualities";
+import ProgressBar from "./components/ProgressBar";
 import "./Quiz.css";
-import SummaryQuiz from "../quiz/components/SummaryQuiz";
+import SummaryQuiz from "./components/SummaryQuiz";
 
 class Quiz extends Component {
     state = {
