@@ -83,7 +83,7 @@ class Quiz extends Component {
         let notify = this.state.ending ? null : (<p><em>(Press Enter to continue)</em></p>);
         let words = null;
         if (this.state.showResults) {
-            words = (<h2 style={{ textAlign: "center" }}>Here are the possible characters you will be!</h2>);
+            words = (<h2 style={{ textAlign: "center" }}>Here are the ideal boyfriends/girlfriends!</h2>);
             results = Object.keys(this.state.apiResponse).map(igKey => {
                 return (<div style={{ textAlign: "center", fontWeight: "bold" }}>
                     <p>{this.state.apiResponse[igKey].name}</p>

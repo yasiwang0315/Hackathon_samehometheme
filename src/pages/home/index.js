@@ -40,7 +40,7 @@ class Home extends PureComponent {
                         <div>
                             <Link to='/quiz'>
                                 <Button variant="dark" className='writing' size="lg">
-                                    Take a quiz
+                                    Pick Your Ideal Marvel Boyfriend/Girlfriend!
                             </Button>
                             </Link></div>
                         <Topic />
