@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project is inspired by Same Home Different Hacks (June 12th-14th 2020) by MLH Summer League. We have two team members: Haoxue Li and Yasi Wang.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +12,17 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.9.18"
-  }
+    "mongoose": "^5.9.18",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasiwang0315/Hackathon_samehometheme.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/yasiwang0315/Hackathon_samehometheme/issues"
+  },
+  "homepage": "https://github.com/yasiwang0315/Hackathon_samehometheme#readme"
 }
